@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm ## kartupelukaralis.
+I'm **kartupelukaralis**.
 I'm working with logistics, distribution and process automation.
 
 ## 🔭 Current focus
