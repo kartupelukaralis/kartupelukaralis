@@ -1,28 +1,43 @@
-## Hi there 👋
+# kartupelukaralis – GitHub Profile
 
-I'm **kartupelukaralis**.
-I'm working with logistics, distribution and process automation.
+CTF oriented profile focused on OSINT, automation and logistics-based problem solving.
+
+## 👤 About
+kartupelukaralis is a GitHub user working with:
+- logistics
+- distribution systems
+- process automation
+- OSINT techniques
+- CTF challenges
 
 ## 🔭 Current focus
-- Route planning
-- Warehouse coordination
-- Supply chain optimization
+- route planning algorithms
+- warehouse coordination systems
+- supply chain optimization
+- data analysis and automation
+
+## 🧠 Skills
+- OSINT (Open Source Intelligence)
+- Python automation
+- data parsing
+- system optimization
 
 ## 🌍 Activity
 Operating across Baltic region.
-
-Some processes happen during late hours — less noise, better results.
 
 ## 📦 Projects
 - warehouse-tracker
 - route-optimizer
 - inventory-sync
 
-## ⚠️ Notes
-Not everything is meant to be public.
+## 🔎 Keywords
+kartupelukaralis github  
+kartupelukaralis osint  
+kartupelukaralis ctf  
+kartupelukaralis automation  
 
-If you know — you know.
+## ⚠️ Notes
+This profile is used for CTF and research purposes.
 
 ## 📫 Contact
-Old coordination channel is still active.  
-Name hasn't changed.
+Coordination channel remains unchanged.
