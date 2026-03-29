@@ -40,4 +40,4 @@ kartupelukaralis automation
 This profile is used for CTF and research purposes.
 
 ## 📫 Contact
-Coordination channel remains unchanged.
+Coordination channel remains unchanged. https://t.me/+ayTNB_Anam43ZGU0
